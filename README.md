@@ -13,7 +13,7 @@ Install the necessary utilities
 	
 	sudo apt install curl build-essential git wget jq make gcc tmux htop nvme-cli pkg-config libssl-dev libleveldb-dev tar clang bsdmainutils ncdu unzip libleveldb-dev -y
 
-Install docker 
+Docker 
 	
 	apt install apt-transport-https ca-certificates curl software-properties-common -y && \
 	curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add - && \
