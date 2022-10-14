@@ -33,7 +33,7 @@ Open a new session in the screen
 	mkdir -p tenderduty && cd tenderduty
 	docker run --rm ghcr.io/blockpane/tenderduty:latest -example-config >config.yml
 
-Now we can chack config with a command 
+Now we can check config with a command 
 
 	nano $HOME/tenderduty/config.yml
 	
